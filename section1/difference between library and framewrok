@@ -1,0 +1,9 @@
+what's the difference between a framework and a library? 
+although they have differences like library has some functions, methods and etc that you use on your code and framework having those it has some things related to how to work with memory or how to use GUI, 
+the main difference is about "who calls whom?"
+in framework the framework code calls on your code 
+in a library, its your code that makes calls to the library 
+like a relation between a server and a client 
+commonly known as inversion of control (IoC) 
+
+https://youtu.be/D_MO9vIRBcA?si=zWVKcd3wvqKIPKM2
