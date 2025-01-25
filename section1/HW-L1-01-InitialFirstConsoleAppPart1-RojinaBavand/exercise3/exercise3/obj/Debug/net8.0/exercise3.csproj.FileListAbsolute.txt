@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\.net codes\exercise3\exercise3\bin\Debug\net8.0\exercise3.exe
+C:\Users\USER\Documents\.net codes\exercise3\exercise3\bin\Debug\net8.0\exercise3.deps.json
+C:\Users\USER\Documents\.net codes\exercise3\exercise3\bin\Debug\net8.0\exercise3.runtimeconfig.json
+C:\Users\USER\Documents\.net codes\exercise3\exercise3\bin\Debug\net8.0\exercise3.dll
+C:\Users\USER\Documents\.net codes\exercise3\exercise3\bin\Debug\net8.0\exercise3.pdb
+C:\Users\USER\Documents\.net codes\exercise3\exercise3\obj\Debug\net8.0\exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\.net codes\exercise3\exercise3\obj\Debug\net8.0\exercise3.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\.net codes\exercise3\exercise3\obj\Debug\net8.0\exercise3.AssemblyInfo.cs
+C:\Users\USER\Documents\.net codes\exercise3\exercise3\obj\Debug\net8.0\exercise3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\.net codes\exercise3\exercise3\obj\Debug\net8.0\exercise3.dll
+C:\Users\USER\Documents\.net codes\exercise3\exercise3\obj\Debug\net8.0\refint\exercise3.dll
+C:\Users\USER\Documents\.net codes\exercise3\exercise3\obj\Debug\net8.0\exercise3.pdb
+C:\Users\USER\Documents\.net codes\exercise3\exercise3\obj\Debug\net8.0\exercise3.genruntimeconfig.cache
+C:\Users\USER\Documents\.net codes\exercise3\exercise3\obj\Debug\net8.0\ref\exercise3.dll
