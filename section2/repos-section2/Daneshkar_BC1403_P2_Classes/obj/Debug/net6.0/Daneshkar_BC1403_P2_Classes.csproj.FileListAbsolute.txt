@@ -1,0 +1,14 @@
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_P2_Classes\bin\Debug\net6.0\Daneshkar_BC1403_P2_Classes.exe
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_P2_Classes\bin\Debug\net6.0\Daneshkar_BC1403_P2_Classes.deps.json
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_P2_Classes\bin\Debug\net6.0\Daneshkar_BC1403_P2_Classes.runtimeconfig.json
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_P2_Classes\bin\Debug\net6.0\Daneshkar_BC1403_P2_Classes.dll
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_P2_Classes\bin\Debug\net6.0\Daneshkar_BC1403_P2_Classes.pdb
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_P2_Classes\obj\Debug\net6.0\Daneshkar_BC1403_P2_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_P2_Classes\obj\Debug\net6.0\Daneshkar_BC1403_P2_Classes.AssemblyInfoInputs.cache
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_P2_Classes\obj\Debug\net6.0\Daneshkar_BC1403_P2_Classes.AssemblyInfo.cs
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_P2_Classes\obj\Debug\net6.0\Daneshkar_BC1403_P2_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_P2_Classes\obj\Debug\net6.0\Daneshkar_BC1403_P2_Classes.dll
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_P2_Classes\obj\Debug\net6.0\refint\Daneshkar_BC1403_P2_Classes.dll
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_P2_Classes\obj\Debug\net6.0\Daneshkar_BC1403_P2_Classes.pdb
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_P2_Classes\obj\Debug\net6.0\Daneshkar_BC1403_P2_Classes.genruntimeconfig.cache
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_P2_Classes\obj\Debug\net6.0\ref\Daneshkar_BC1403_P2_Classes.dll

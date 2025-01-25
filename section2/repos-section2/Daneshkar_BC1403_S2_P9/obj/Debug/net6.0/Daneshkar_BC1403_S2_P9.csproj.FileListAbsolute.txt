@@ -1,0 +1,14 @@
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_S2_P9\bin\Debug\net6.0\Daneshkar_BC1403_S2_P9.exe
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_S2_P9\bin\Debug\net6.0\Daneshkar_BC1403_S2_P9.deps.json
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_S2_P9\bin\Debug\net6.0\Daneshkar_BC1403_S2_P9.runtimeconfig.json
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_S2_P9\bin\Debug\net6.0\Daneshkar_BC1403_S2_P9.dll
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_S2_P9\bin\Debug\net6.0\Daneshkar_BC1403_S2_P9.pdb
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_S2_P9\obj\Debug\net6.0\Daneshkar_BC1403_S2_P9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_S2_P9\obj\Debug\net6.0\Daneshkar_BC1403_S2_P9.AssemblyInfoInputs.cache
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_S2_P9\obj\Debug\net6.0\Daneshkar_BC1403_S2_P9.AssemblyInfo.cs
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_S2_P9\obj\Debug\net6.0\Daneshkar_BC1403_S2_P9.csproj.CoreCompileInputs.cache
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_S2_P9\obj\Debug\net6.0\Daneshkar_BC1403_S2_P9.dll
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_S2_P9\obj\Debug\net6.0\refint\Daneshkar_BC1403_S2_P9.dll
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_S2_P9\obj\Debug\net6.0\Daneshkar_BC1403_S2_P9.pdb
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_S2_P9\obj\Debug\net6.0\Daneshkar_BC1403_S2_P9.genruntimeconfig.cache
+C:\Users\Massoud Beygi\source\repos\Daneshkar_BC1403_S2_P9\obj\Debug\net6.0\ref\Daneshkar_BC1403_S2_P9.dll
