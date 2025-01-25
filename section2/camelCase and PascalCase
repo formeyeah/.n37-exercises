@@ -1,0 +1,4 @@
+camelCase
+  Definition: The first letter of the first word is lowercase, and the first letter of subsequent words is capitalized.
+PascalCase
+  Definition: Every word starts with a capital letter, including the first word.
