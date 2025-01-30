@@ -1,0 +1,19 @@
+These data types are categorized based on how they store their value in memory:
+
+1-Value Types:
+
+  Hold data directly within their own memory space.
+  Variables contain the actual values.
+  Examples: int, float, bool, struct.
+
+2-Reference Types:
+
+  Store the address where the actual data is held.
+  Variables contain a reference to the data's memory location.
+  Examples: string, class, object, array.
+
+3-Pointer Types:
+
+  Hold the memory address of another type.
+  Used in unsafe code contexts.
+  Declared using the * symbol (e.g., int* p).
